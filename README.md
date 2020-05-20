@@ -1,9 +1,6 @@
 Requirements
 ------------
-Python 3.6
-Pygame
-Keras
-Matplotlib
+Python 3.6,Pygame,Keras,Matplotlib, and numpy.
 
 Steps to run
 ------------
